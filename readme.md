@@ -1,10 +1,15 @@
 ## DARTEL
 
-Huge thanks to:
-Xinzhe Luo 
-An Sui 
-Yilin Chen
-Haiyu Gong
+### Huge thanks to:
+
+Xinzhe Luo,
+
+An Sui,
+
+Yilin Chen,
+
+Haiyu Gong,
+
 Yunuo Cai
 
 
